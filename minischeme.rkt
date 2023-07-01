@@ -1,6 +1,5 @@
 #lang racket
 ;By Elise Schwarz-Saccamano and Jenny Rowlett
-;We have adhered to the honor code in this assignment.
 
 (require "parse.rkt")
 (require "interp.rkt")
